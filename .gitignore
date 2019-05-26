@@ -88,4 +88,7 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# Output Typescript compilation
+dist/
+
 # End of https://www.gitignore.io/api/node
